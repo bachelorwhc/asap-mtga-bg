@@ -33,7 +33,10 @@ What to do first? — How to get cards? — What to spend on? — What is Standa
 1. Starting with Arena
 Interface overview — Collection interface — Initial collection — Economy overview — Useful settings — Codes for free stuff
 
-2. Formats, queues, events
+2. [賽制、候賽、活動](2.md)
+
+    賽制與模式簡介：等候對戰、常規活動、其他活動、排名系統、玩家與好友間的對戰
+
 Formats and modes overview — Free queues — Permanent events — Other events — Ranked system — Playing with friends
 
 3. Playing a match
