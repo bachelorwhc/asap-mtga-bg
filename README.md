@@ -1,14 +1,24 @@
 # As Short As Possible (Not As Short As Planned) Unabridged Beginner’s Guide to MTG Arena
 
-## 版權聲明
+## 著作權聲明
+
 本指南由[/u/localghost](https://www.reddit.com/user/localghost)撰寫，[原文](https://sites.google.com/view/asap-bg-to-mtga/home?authuser=0)經作者本人同意翻譯。此翻譯版本由bachelorwhc製作，未經授權請勿任意轉載，由於個人外語能力有限，如有錯誤或建議歡迎來信[bachelor.whc@gmail.com](mailto:bachelor.whc@gmail.com)。
 
 ## 免責聲明
+
 這份指南假設你知道什麼是紙牌集換遊戲，並對魔法風雲會有基本的認識。如果你需要了解或複習，可以先看看附錄A，如果你想把MTG玩得更好則看看官方的[Level One專欄](https://magic.wizards.com/en/articles/archive/level-one/level-one-full-course-2015-10-05)或附錄C。
+
+## 翻譯說明
+
+- 雖然魔法風雲會(MTG)有繁體中文與簡體中文版，但本翻譯是服務MTGA玩家。故縱使系列名稱已有官方中文名稱，但本翻譯仍以原文表記方便玩家對照遊戲介面。除此之外與遊戲介面、文字有關的內容視情況亦保留原文(除非未來威世智加入中文語系)。
+
+- 為求便捷，稀有度表記Common為鐵牌、Uncommon為銀牌，Rare為稀有、Mythic為秘稀。
+
+- 部份原稱過長且縮寫在英語圈極常使用的用詞不翻，以便日後玩家搜尋資料或理解。例如：ICR(Individual Card Rewards)。
 
 ## 我適合這款遊戲嗎？猶豫不決的你應該知道的事
 
-- Arena是一款**真正**的MTG遊戲，但他聚焦在標準賽制與依夏蘭(Ixalan)以後的核心與擴充環境。Arena的永恆賽制稱為Historic，以增加歷來的環境為特色
+- Arena是一款**真正**的MTG遊戲，但他聚焦在標準賽制與Ixalan以後的核心與擴充環境。Arena的永恆賽制稱為Historic，以增加歷來的環境為特色
 
 - Arena只有單挑。不排除未來增加其他模式或更早期的環境、永恆賽制的可能性，但什麼時候才能實現則遙遙無期。先驅賽制的牌池正逐漸地補足，補完的計畫仍未明瞭
 
@@ -37,13 +47,12 @@ Interface overview — Collection interface — Initial collection — Economy o
 
     賽制與模式簡介：等候對戰、常規活動、其他活動、排名系統、玩家與好友間的對戰
 
-Formats and modes overview — Free queues — Permanent events — Other events — Ranked system — Playing with friends
-
 3. Playing a match
 Turn timers — Holding priority — Visual cues — Stack — Auto tapper — Mana pool — Various
 
-4. Acquiring cards
-Card packs — Limited — Individual card rewards — Wildcards — Set mastery — Cards not in packs
+4. [Acquiring cards](4.md)
+
+    補充包、限制賽、ICR、Mastery、限定卡
 
 5. Moving to better decks [Advanced]
 Strength of starters — Choosing next deck — Income and spending — Expanding collection — Drafting to complete collection
