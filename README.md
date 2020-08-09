@@ -1,4 +1,6 @@
-# As Short As Possible (Not As Short As Planned) Unabridged Beginner’s Guide to MTG Arena
+# 盡可能簡單明瞭(但不如計畫)的新手MTGA完整指南
+
+> As Short As Possible (Not As Short As Planned) Unabridged Beginner’s Guide to MTG Arena
 
 ## 著作權聲明
 
@@ -39,25 +41,21 @@
 - Windows平台的Arena可透過Wizards of the Coast或Epic Games Store下載。MacOS版本從2020年6月起只能由Epic Game Store安裝。行動裝置預計於2020年底以前上線，在那之前可以使用Steam Link作為替代方案
 
 ## Contents
+
 Preface. Brief answers on the hottest questions people ask when (re)starting
 What to do first? — How to get cards? — What to spend on? — What is Standard? — and more
 
 1. Starting with Arena
 Interface overview — Collection interface — Initial collection — Economy overview — Useful settings — Codes for free stuff
 
-2. [賽制、候賽、活動](2.md)
-
-    賽制與模式簡介：等候對戰、常規活動、其他活動、排名系統、玩家與好友間的對戰
+2. [賽制與活動、模式簡介](2.md)
 
 3. Playing a match
 Turn timers — Holding priority — Visual cues — Stack — Auto tapper — Mana pool — Various
 
-4. [Acquiring cards](4.md)
+4. [獲得卡片](4.md)
 
-    補充包、限制賽、ICR、Mastery、限定卡
-
-5. Moving to better decks [Advanced]
-Strength of starters — Choosing next deck — Income and spending — Expanding collection — Drafting to complete collection
+5. [組一副更好的套牌 \[進階\]](5.md)
 
 6. Deeper dive: Arena specifics, MTG rules and more [Advanced]
 Arena quirks — Card bans — Frequent rule doubts — Dealing with variance
