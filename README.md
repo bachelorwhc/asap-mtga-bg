@@ -50,8 +50,7 @@ Interface overview — Collection interface — Initial collection — Economy o
 
 2. [賽制與活動、模式簡介](2.md)
 
-3. Playing a match
-Turn timers — Holding priority — Visual cues — Stack — Auto tapper — Mana pool — Various
+3. [進行對決](3.md)
 
 4. [獲得卡片](4.md)
 
