@@ -47,8 +47,7 @@
 Preface. Brief answers on the hottest questions people ask when (re)starting
 What to do first? — How to get cards? — What to spend on? — What is Standard? — and more
 
-1. Starting with Arena
-Interface overview — Collection interface — Initial collection — Economy overview — Useful settings — Codes for free stuff
+1. [開始玩Arena](1.md)
 
 2. [賽制與活動、模式簡介](2.md)
 
