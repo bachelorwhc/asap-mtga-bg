@@ -57,8 +57,7 @@ What to do first? — How to get cards? — What to spend on? — What is Standa
 
 5. [組一副更好的套牌 \[進階\]](5.md)
 
-6. Deeper dive: Arena specifics, MTG rules and more [Advanced]
-Arena quirks — Card bans — Frequent rule doubts — Dealing with variance
+6. [深潛 \[進階\]](6.md)
 
 Appendix A. Introduction to MTG
 Overview — Card types — Combat — Stack — New sets and rotation — Sideboard
